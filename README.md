@@ -2,4 +2,4 @@
 Experiments with GitHub Pages for project
 
 
-New feature 2
+New feature 3

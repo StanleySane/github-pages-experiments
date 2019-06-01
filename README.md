@@ -1,4 +1,4 @@
 # github-pages-experiments
 Experiments with GitHub Pages for project
 
-new feature
+New feature
